@@ -1,2 +1,17 @@
 *.class
 *.log
+
+*.iml
+
+*.idea
+*/.idea/
+
+*/target
+target/
+
+*/project/target/
+project/target/
+
+.ensime
+.ensime_cache/
+*.log
